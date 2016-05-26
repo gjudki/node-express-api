@@ -1,0 +1,21 @@
+{
+  "name": "play-by-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.1",
+    "express": "4.13.4",
+    "lodash": "^4.12.0",
+    "mongoose": "^4.4.19",
+    "redis": "^2.5.3",
+    "request": "^2.72.0"
+  }
+}
