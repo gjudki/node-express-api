@@ -16,5 +16,5 @@ Essentially, we create an 'express.js' restful service for Cats.. a few interest
 - npm install
 - Have Mongo set up
 - Installed redis with homebrew... homebrew sucks. Start redis server with redis-server, then run redis-cli
--- In the 'redis-cli', use 'keys * ' to see all stored redis keys. You can do other fancy stuff (flushdb) to clear the cache
+- In the 'redis-cli', use 'keys * ' to see all stored redis keys. You can do other fancy stuff (flushdb) to clear the cache
 - Installed "forever" gloabally so that I can run multiple node processes (servers) from one terminal window... but they don't auto update like with 'nodemon'
